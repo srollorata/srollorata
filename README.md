@@ -1,6 +1,8 @@
+## Hi there!
 <a href="https://app.daily.dev/wynrollorata"><img src="https://github.com/srollorata/srollorata/blob/main/devcard.svg" width="400" alt="Selwyn Rollorata's Dev Card"/></a>
 
-## Hi there!
+# Used Cloud Storage
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 <!--
 **srollorata/srollorata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
