@@ -1,4 +1,7 @@
-<a href="https://app.daily.dev/wynrollorata"><img src="https://github.com/srollorata/srollorata/blob/main/devcard.svg" width="400" alt="Selwyn Rollorata's Dev Card"/></a>
+| Statistics | Article Stats |
+| :---------: | :-----------: | 
+| <a href="https://github.com/srollorata/github-readme-stats"><img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=srollorata&show_icons=true&theme=github_dark_dimmed" /> </a> <a href="https://github.com/srollorata/convoychat"> <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srollorata&layout=compact&langs_count=8&card_width=400&theme=github_dark_dimmed" /> </a> | <a href="https://app.daily.dev/wynrollorata"> <img src="https://github.com/srollorata/srollorata/blob/main/devcard.svg" width="400" alt="Selwyn Rollorata's Dev Card"/> </a> |
+
 
 ## Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
