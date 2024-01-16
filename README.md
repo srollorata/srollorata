@@ -16,7 +16,7 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ---
-[![ForTheBadge say-thanks](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://saythanks.io/to/srollorata)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/srollorata)
 
 
 <!--
