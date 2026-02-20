@@ -1,6 +1,6 @@
-| Statistics | Article Stats |
-| :---------: | :-----------: | 
-| <a href="https://github.com/srollorata/github-readme-stats"><img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=srollorata&show_icons=true&theme=github_dark_dimmed" /> </a> <a href="https://github.com/srollorata/convoychat"> <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srollorata&layout=compact&langs_count=8&card_width=400&theme=github_dark_dimmed" /> </a> | <a href="https://app.daily.dev/wynrollorata"> <img src="https://github.com/srollorata/srollorata/blob/main/devcard.svg" width="400" alt="Selwyn Rollorata's Dev Card"/> </a> |
+| Article Stats |
+| :-----------: | 
+| <a href="https://app.daily.dev/wynrollorata"> <img src="https://github.com/srollorata/srollorata/blob/main/devcard.svg" width="400" alt="Selwyn Rollorata's Dev Card"/> </a> |
 
 
 | Design | IDEs/Editors | Frameworks, Platforms and Libraries |
